@@ -1,0 +1,11 @@
+
+Pour lister les zones
+gcloud compute zones list
+
+Paris se trouve dans europe-west9 (3 zones a,b,c)
+
+gcloud compute machine-types list --filter="zone:(europe-west9-a europe-west9-b europe-west9-c)"
+
+
+f1-micro
+ubuntu-os-cloud/ubuntu-focal
