@@ -100,6 +100,8 @@ github.com/googleapis/gax-go/v2 v2.12.5 h1:8gw9KZK8TiVKB6q3zHY3SBzLnrGp6HQjyfYBY
 github.com/googleapis/gax-go/v2 v2.12.5/go.mod h1:BUDKcWo+RaKq5SC9vVYL0wLADa3VcfswbOMMRmB9H3E=
 github.com/iodasolutions/xbee-common v0.0.0-20240713095617-14579b2802ea h1:jGEYUOtMwhmvWeOJPW/P2j5iW7tKl88X1COtcEXEsxM=
 github.com/iodasolutions/xbee-common v0.0.0-20240713095617-14579b2802ea/go.mod h1:Yfpj+f4yCrJgbOLWqtn5Vzen2Vas0Gsi5vsS/Wc46QE=
+github.com/iodasolutions/xbee-common v0.0.0-20240811104842-cac50fa9232f h1:UfgWrcZ5MhWAlFORDG1ven8Vw1tMqK6RJtc9vg7a+1A=
+github.com/iodasolutions/xbee-common v0.0.0-20240811104842-cac50fa9232f/go.mod h1:Yfpj+f4yCrJgbOLWqtn5Vzen2Vas0Gsi5vsS/Wc46QE=
 github.com/jmespath/go-jmespath v0.4.0 h1:BEgLn5cpjn8UN1mAw4NjwDrS35OdebyEtFe+9YPoQUg=
 github.com/jmespath/go-jmespath v0.4.0/go.mod h1:T8mJZnbsbmF+m6zOOFylbeCJqk5+pHWvzYPziyZiYoo=
 github.com/jmespath/go-jmespath/internal/testify v1.5.1 h1:shLQSRRSCCPj3f2gpwzGwWFoC7ycTf1rcQZHOlsJ6N8=

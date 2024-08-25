@@ -4,7 +4,7 @@ go 1.21.4
 
 require (
 	cloud.google.com/go/compute v1.27.3
-	github.com/iodasolutions/xbee-common v0.0.0-20240713095617-14579b2802ea
+	github.com/iodasolutions/xbee-common v0.0.0-20240811104842-cac50fa9232f
 	google.golang.org/api v0.188.0
 	google.golang.org/protobuf v1.34.2
 )

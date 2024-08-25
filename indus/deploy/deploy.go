@@ -8,7 +8,7 @@ import (
 
 func main() {
 	ctx := context.TODO()
-	if err := indus.BuildAndDeploy(ctx, "main", "aws"); err != nil {
+	if err := indus.BuildAndDeploy(ctx, "main", "gcp"); err != nil {
 		log.Fatal(err)
 	}
 }

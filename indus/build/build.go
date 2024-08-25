@@ -9,7 +9,7 @@ import (
 func main() {
 	ctx := context.TODO()
 
-	if err := indus.Build(ctx, "main", "gcloud"); err != nil {
+	if err := indus.Build(ctx, "main", "gcp"); err != nil {
 		log.Fatal(err)
 	}
 }
